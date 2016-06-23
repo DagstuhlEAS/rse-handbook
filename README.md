@@ -4,11 +4,39 @@ If you are new here: *DON'T PANIC*. version control & a licence & giving/getting
 
 ## How to read this handbook
 
-So you know the basics of programming! This handbook is for TBD
+So you know the basics of programming! This handbook is for RSE, PI, grad students who write RS. 
+
+What size project?
+* Just you - see chapter X
+* You and your PI - these
+* You and your group - more
+* 5-Person team - more
+Project stage: 
+* joining project
+* starting project
+* fixing project
+A typology of software teams/projects as an index:
+* If you are a beginner, do this stuff
+* If you are a PI, read this stuff
+* If you are…..etc
+* Different kinds of software that suggest different levels of formalization
+
 
 ## Table of Contents
 
-* [Getting Started](chapter1_gettingstarted.md)
+**Getting started: DON'T PANIC!**
+
+* Version Control
+* Licenses
+* Request for citation
+* Getting feedback
+** Show your code to someone else
+** Find your local support people
+** Get used to developing in public
+* Don't Reinvent the Wheel
+** Finding and evaluating upstream projects
+* Documentation
+* Requirements
 
 **"I want to code better."**
 
@@ -41,9 +69,7 @@ So you know the basics of programming! This handbook is for TBD
 * Community management
 * Release management
 * Governance, code of conduct
-* Rethinking licensing
-* CLAs
-
+* Rethinking Licensing, Contributor Licensing Agreements
 
 ## Contribute!
 
