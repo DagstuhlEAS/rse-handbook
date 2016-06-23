@@ -1,5 +1,7 @@
 # Research Software Engineering Handbook
 
+## What is this handbook?
+
 This handbook is for when **something is different.** So you know the basics of programming! This handbook is for RSE, PI, grad students who write RS. 
 
 What size project?
