@@ -1,5 +1,11 @@
 # Research Software Engineering Handbook
 
+## Licence
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![Creative Commons Licence](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
 ## What is this handbook?
 
 This handbook is for when **something is different.** So you know the basics of programming! This handbook is for RSE, PI, grad students who write RS. 
