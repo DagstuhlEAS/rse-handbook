@@ -1,6 +1,6 @@
 # README
 
-I you are new here: *DON'T PANIC*. version control & a licence & giving/getting feedback
+If you are new here: *DON'T PANIC*. version control & a licence & giving/getting feedback
 
 ## How to read this handbook
 
@@ -64,5 +64,5 @@ Guiding principles of the meta-handbook:
 * [Field Guide to Python Programming](http://physics.codes/)
 * [Computational Science](https://www.amazon.com/Computation-Science-Konrad-Hinsen/dp/168174029X?ie=UTF8&*Version*=1&*entries*=0)
 * Rob's eScience book: estep.esciencecenter.nl, or : https://nlesc.gitbooks.io/guide/content/
-* Matt (and other Moore/Sloan Data Driven Discovery folks) have created: http://labcarpentry.org/en/latest/  (Matt T’s instance is down due to compromise, but here’s the source: https://bitbucket.org/data-exp-lab/dxl-docs which is readable, and here’s a cache https://webcache.googleusercontent.com/search?q=cache:dXkaGmjPjQ8J:https://dxl.ncsa.illinois.edu/docs/index.html )
+* Matt (and other Moore/Sloan Data Driven Discovery folks) have created: http://labcarpentry.org/en/latest/  (Matt Tâ€™s instance is down due to compromise, but hereâ€™s the source: https://bitbucket.org/data-exp-lab/dxl-docs which is readable, and hereâ€™s a cache https://webcache.googleusercontent.com/search?q=cache:dXkaGmjPjQ8J:https://dxl.ncsa.illinois.edu/docs/index.html )
 * Reproducibility PI Manifesto could be a helpful existing resource here... http://lorenabarba.com/gallery/reproducibility-pi-manifesto/
