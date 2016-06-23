@@ -1,4 +1,4 @@
-# README
+# Research Software Engineering Handbook
 
 This handbook is for when **something is different.** So you know the basics of programming! This handbook is for RSE, PI, grad students who write RS. 
 
@@ -16,7 +16,7 @@ Project stage:
 A typology of software teams/projects as an index:
 * If you are a beginner, do this stuff
 * If you are a PI, read this stuff
-* If you are…..etc
+* If you areâ€¦..etc
 * Different kinds of software that suggest different levels of formalization
 
 
