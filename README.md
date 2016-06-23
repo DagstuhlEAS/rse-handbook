@@ -1,10 +1,6 @@
 # README
 
-If you are new here: *DON'T PANIC*. version control & a licence & giving/getting feedback
-
-## How to read this handbook
-
-So you know the basics of programming! This handbook is for RSE, PI, grad students who write RS. 
+This handbook is for when **something is different.** So you know the basics of programming! This handbook is for RSE, PI, grad students who write RS. 
 
 What size project?
 * Just you - see chapter X
@@ -32,11 +28,11 @@ A typology of software teams/projects as an index:
 * Licenses
 * Request for citation
 * Getting feedback
-** Show your code to someone else
-** Find your local support people
-** Get used to developing in public
+  * Show your code to someone else
+  * Find your local support people
+  * Get used to developing in public
 * Don't Reinvent the Wheel
-** Finding and evaluating upstream projects
+ * Finding and evaluating upstream projects
 * Documentation
 * Requirements
 
@@ -92,6 +88,6 @@ Guiding principles of the meta-handbook:
 
 * [Field Guide to Python Programming](http://physics.codes/)
 * [Computational Science](https://www.amazon.com/Computation-Science-Konrad-Hinsen/dp/168174029X?ie=UTF8&*Version*=1&*entries*=0)
-* Rob's eScience book: estep.esciencecenter.nl, or : https://nlesc.gitbooks.io/guide/content/
-* Matt (and other Moore/Sloan Data Driven Discovery folks) have created: http://labcarpentry.org/en/latest/  (Matt T’s instance is down due to compromise, but here’s the source: https://bitbucket.org/data-exp-lab/dxl-docs which is readable, and here’s a cache https://webcache.googleusercontent.com/search?q=cache:dXkaGmjPjQ8J:https://dxl.ncsa.illinois.edu/docs/index.html )
-* Reproducibility PI Manifesto could be a helpful existing resource here... http://lorenabarba.com/gallery/reproducibility-pi-manifesto/
+* [Handbook for eScience Center in NL](https://nlesc.gitbooks.io/guide/content/)
+* [Lab Carpentry via Moore/Sloan Data Discovery](http://labcarpentry.org/en/latest/)
+* [Reproducibility PI Manifesto](http://lorenabarba.com/gallery/reproducibility-pi-manifesto/)
