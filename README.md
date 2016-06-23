@@ -11,10 +11,12 @@ What size project?
 * You and your PI - these
 * You and your group - more
 * 5-Person team - more
+
 Project stage: 
 * joining project
 * starting project
 * fixing project
+
 A typology of software teams/projects as an index:
 * If you are a beginner, do this stuff
 * If you are a PI, read this stuff
@@ -73,7 +75,7 @@ A typology of software teams/projects as an index:
 
 ## Contribute!
 
-Outline for each of the technical chapters
+**Outline for each of the technical chapters**
 * Here is what it is
 * Here is why it matters
 * Default choice if you don't care and just want to do something
