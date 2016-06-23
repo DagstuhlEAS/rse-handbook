@@ -1,5 +1,7 @@
 # README
 
+I you are new here: *DON'T PANIC*. version control & a licence & giving/getting feedback
+
 ## How to read this handbook
 
 Prerequisites: We assume you have some basic level of programming
