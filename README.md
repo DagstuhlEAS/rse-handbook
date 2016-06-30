@@ -32,7 +32,7 @@ A typology of software teams/projects as an index:
 
 **Getting started: DON'T PANIC!**
 
-* Version Control
+* Version Control (get your code under control) 
 * Licenses
 * Request for citation
 * Getting feedback
@@ -66,7 +66,7 @@ A typology of software teams/projects as an index:
 * Formal requirements gathering - user stories, specs, etc
 * Version control ++ (branching models, etc)
 * Management process
-* Communications processes and tools
+* Communications processes and tools ([claimed by k-kuk](/issues/21))
 * Project Management - estimation and planning (of time/money/resource)
 
 **"You have your first pull request, and a beginning of a community. What now?"**
