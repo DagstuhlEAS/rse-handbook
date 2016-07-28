@@ -43,7 +43,7 @@ Note: claimed chapter are denoted with @USERNAME/#ISSUE_NUMBER. Please add yours
 * Don't Reinvent the Wheel (@mikecrouher/#14)
  * Finding and evaluating upstream projects
 * Documentation (@mikecroucher/#16)
-* Requirements gathering 101 (@katerena/#17)
+* [Requirements gathering 101](getting_started/7_reqs.md) (@katerena/#17)
 
 **"I want to code better."**
 
