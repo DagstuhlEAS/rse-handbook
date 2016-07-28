@@ -86,7 +86,7 @@ Note: claimed chapter are denoted with @USERNAME/#ISSUE_NUMBER. Please add yours
   * Maintaining momentum
   * Hiring developers
   * Onboarding
-* Communications processes and tools (@katerena/#21)
+* [Communications processes and tools](teams/4_communication.md) (@katerena/#21)
 * Team based development
   * Collective ownership of the code (@hainesr/#9)
   * Technical debt (@hainesr/#10)
