@@ -8,7 +8,10 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## What is this handbook?
 
-This handbook is for when **something is different.** So you know the basics of programming! This handbook is for RSE, PI, grad students who write research software.
+This handbook is for RSEs, PIs, grad students, and all who write research software.
+If you already know the basics of programming, but now, **something is different**, this handbook is for you.
+It's intended to help you learn to do something new while building on what you already know, based on what has been have found to work for others.
+ 
 
 What size project?
 * Just you - see chapter X
