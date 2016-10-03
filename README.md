@@ -81,7 +81,7 @@ Note: claimed chapter are denoted with @USERNAME/#ISSUE_NUMBER. Please add yours
 **"You have a team of developers now, how to cope with the new challenges?"**
 * Formal requirements gathering (@JeffCarver/#24)
 * Version control ++ (@hainesr/#7)
-* Management process (@crowston/#28)
+* Management process (???)
   * Group maintenance / morale / interpersonal interaction 
   * Maintaining momentum
   * Hiring developers
